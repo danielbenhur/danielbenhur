@@ -2,7 +2,7 @@
 
 ### An environmental engineer who wants to be a good programmer.
 
-<p align="left"> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzg5bm5iN3doNjhpbDFueXBoZWh3a281cGxyamkxMjRhMDU5aGhjbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4Zgy9QqzWU8C3ugvCa/giphy.gif" alt="Linux Linux Linux ahhhhhhhhh" /> </p>
+<p align="left"> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzg5bm5iN3doNjhpbDFueXBoZWh3a281cGxyamkxMjRhMDU5aGhjbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4Zgy9QqzWU8C3ugvCa/giphy.gif" alt="Linux Linux Linux ahhhhhhhhh" /> </p> 
 
 - 🔭 I'm currently working on **building models that will help provide water security for the world**
 
@@ -17,6 +17,8 @@
 - 📝 I regularly write articles on **[https://danielbenhurso.wixsite.com/benhuroliveira/blog](https://danielbenhurso.wixsite.com/benhuroliveira/blog)**
 
 - 📄 Know about my experiences **[http://lattes.cnpq.br/3753542300442136](http://lattes.cnpq.br/3753542300442136)**
+
+![](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTRtMWsxN21kbG4wM3N2bmF3NTVuZ2VudHFzOW10cDFoOG80aWd5NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Zd8PWjBCHCIAo/giphy.gif)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
