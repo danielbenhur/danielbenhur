@@ -2,9 +2,7 @@
 
 ### An environmental engineer who wants to be a good programmer.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=danielbenhur&label=Profile views&color=0e75b6&style=flat" alt="danielbenhur" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danielbenhur" alt="danielbenhur" /></a> </p>
+<p align="left"> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzg5bm5iN3doNjhpbDFueXBoZWh3a281cGxyamkxMjRhMDU5aGhjbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4Zgy9QqzWU8C3ugvCa/giphy.gif" alt="Linux Linux Linux ahhhhhhhhh" /> </p>
 
 - 🔭 I'm currently working on **building models that will help provide water security for the world**
 
@@ -31,6 +29,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danielbenhur&show_icons=true&locale=en&layout=compact" alt="danielbenhur" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danielbenhur&show_icons=true&locale=en" alt="danielbenhur" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danielbenhur&" alt="danielbenhur" /></p>
-
