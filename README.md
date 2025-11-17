@@ -6,15 +6,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danielbenhur" alt="danielbenhur" /></a> </p>
 
-- 🔭 I'm currently working on **Currently building models that will help provide water security for the world**
+- 🔭 I'm currently working on **building models that will help provide water security for the world**
 
-- 🌱 I'm currently learning **Learning Python, and wanting to ride the wave of learning Go, SQL, HTML, and Bash (whatever else comes along)**
+- 🌱 I'm currently learning **Python, and wanting to ride the wave of learning Go, SQL, HTML, and Bash (whatever else comes along)**
 
-- 🤝 I'm looking for help with **It would be great to get help so my codes aren't purely AI.**
+- 🤝 I'm looking for help to **prevent my codes from being pure AI.**
 
 - 📫 How to reach me **danielbenhur.s.o@gmail.com**
 
-- ⚡ Fun fact **I am still considering whether to study technology or theology at university.**
+- ⚡**I am still considering whether to study technology or theology at university.**
 
 - 📝 I regularly write articles on **[https://danielbenhurso.wixsite.com/benhuroliveira/blog](https://danielbenhurso.wixsite.com/benhuroliveira/blog)**
 
